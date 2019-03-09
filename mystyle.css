@@ -1,0 +1,145 @@
+body {
+	font-family: times new roman;
+	background-color: #e5ccff;
+	background-image: url("collage.jpg");
+	background-size: 1550px 890px;
+	color: black;
+}
+#termin {
+	position:absolute;
+	background-color:white;
+	border:solid black;
+    top:120px;
+	left:320px;
+	width:900px;
+	height:500px;
+}
+header h1{
+	color:black;
+	position:absolute;
+	background-color:white;
+	top:10px;
+	left:670px;
+	width:400px;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+}
+#hune {
+	width:45px;
+	position:absolute;
+	top:340px;
+	left:370px;	
+}
+#hune1 {
+	font-size:15px;
+	position:absolute;
+	top:320px;
+	left:390px;
+	color:black;
+	font-weight:bold;
+}
+#sinaia {
+	width:45px;
+	position:absolute;
+	top:500px;
+	left:1100px;	
+}
+#sinaia1 {
+	position:absolute;
+	top:490px;
+	left:1135px;
+   	color:black;
+	font-weight: bold;	
+}
+#turda {
+	width:45px;
+	position:absolute;
+	top:200px;
+	left:300px;	
+}
+#turda1 {
+	position:absolute;
+	top:190px;
+	left:340px;	
+	color:black;
+	font-weight: bold;
+}
+#cluj {
+	width:45px;
+	position:absolute;
+	top:270px;
+	left:650px;	
+}
+#cluj1 {
+	position:absolute;
+	top:250px;
+	left:650px;
+	color:black;
+	font-weight: bold;
+}
+#sibiu {
+	width:45px;
+	position:absolute;
+	top:540px;
+	left:500px;	
+}
+#sibiu1 {
+	position:absolute;
+	top:530px;
+	left:540px;
+	color:black;
+	font-weight: bold;
+}
+#targu {
+	width:45px;
+	position:absolute;
+	top:30px;
+	left:1370px;	
+}
+#targu1 {
+	position:absolute;
+	top:10px;
+	left:1410px;
+	color:black;
+	font-weight: bold;	
+}
+#mara {
+	width:45px;
+	position:absolute;
+	top:480px;
+	left:720px;	
+}
+#mara1 {
+	position:absolute;
+	top:460px;
+	left:740px;	
+	color:black;
+	font-weight: bold;
+}
+#consta {
+	width:45px;
+	position:absolute;
+	top:560px;
+	left:1370px;	
+}
+#consta1 {
+	position:absolute;
+	top:540px;
+	left:1410px;
+	color:black;
+	font-weight: bold;	
+}
+#brasov {
+	width:45px;
+	position:absolute;
+	top:660px;
+	left:800px;	
+}
+#brasov1 {
+	position:absolute;
+	top:640px;
+	left:830px;
+	color:black;
+	font-weight: bold;	
+}

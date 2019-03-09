@@ -1,0 +1,13 @@
+function f1(){
+	document.getElementById("prim").innerHTML="Se povesteste despre aceasta fantana ca a fost sapata de catre trei prizonieri turci pe care Ioan de Hunedoara în tinea în castel. Ioan le promite celor trei ca ii va elibera daca vor sapa o fantana cu apa buna. Prizonierii, animati de speranta eliberarii, sapa in stanca timp de 15 ani si la 28 de metri adancime reusesc sa gaseasca pretioasa apa.Numai ca intre timp Ioan murise iar sotia sa, Elisabeta Szilagyi, a decis sã nu respecte cuvantul dat de sotul sãu si nu ii elibereaza pe cei trei turci, hotarand sa fie ucisi. Prizonierii, ca ultima dorinta, cer permisiunea sa scrie pe cheile fantanii o inscriptie: „Apa ai, inima nu”, ca un repros pentru promisiune facuta si nerespectata.De fapt, inscriptia descifrata de Mihail Guboglu glãsuieste astfel: „Cel ce-a scris-o este Hassan, prizonier la ghiauri în cetatea de langa biserica”. Caracterele vechi arabe continute de inscriptie o dateaza la mijlocul secolului al XV-lea. Pozitia actuala a inscriptiei este pe unul dintre contrafortii capelei.";
+}
+function f2(){
+	document.getElementById("doi").innerHTML="Pe blazonul familiei Corvinilor este inscrptionat un corb care tine în cioc un inel de aur. Atribuirea acestui simbol al familiei are o legenda. Se spune cã Ioan de Hunedoara era fiu nelegitim al lui Sigismund de Luxemburg, rege al Ungariei, cu o frumoasa femeie din Tara Hategului, pe nume Elisabeta.Pentru a o feri de necinste, regele îi da de sot pe unul din vitejii sai, Voicu, daruindu-i totodatã si un inel ca si dar pentru copilul nenascut, cu scopul de a fi recunoscut atunci când va creste si va merge la curtea regala. In timpul unei calatorii facuta de familia lui Voicu, poposind pentru a pranzi, inelul este uitat pe o margine a stergarului pe care erau puse merindele. Un corb, atras de stralucirea inelului îl fura încercând sa plece cu el. Copilul Ioan de Hunedoara ia un arc si sageteazã corbul, recuperand astfel inelul. Atunci cand creste si ajunge la curtea regala, povesteste aceastã patanie, iar regele, impresionat de aceasta istorie, decide ca simbolul familiei hunedorenilor sã fie corbul cu inel de aur în cioc.De altfel, si numele familiei provine din latinescul „Corvus”, care inseamna „Corb”, o pasare care simboliza cu totul altceva în evul mediu, si anume întelepciunea si longevitatea.";
+}
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}

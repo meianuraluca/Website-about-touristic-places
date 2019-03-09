@@ -1,0 +1,152 @@
+#maramures {
+	background-color: #e5ccff;
+    background-image: url("maramures.jpg");
+	background-size: 1550px 890px;
+}
+@media only screen and (max-width: 900px) {
+  #maramures {
+    background-image:url("toamna-in-maramures_61127305.jpg");
+  }
+}
+#incerc{
+	background-color:#e6e6e6;
+	width:900px;
+    height:4900px;
+	position:absolute;
+	left:300px;
+	top:0px;
+}
+#incerc1 {
+	position:absolute;
+	top:50px;
+	left:230px;
+	width:400px;
+	color: black;	
+	font-family: times new roman;
+	text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+}
+#incerc2 {
+	align-content: center;
+	position:absolute;
+    top:200px;
+	left:50px;
+	width:800px; 
+}
+span{
+    position:absolute;
+    top:3%;
+	left:21%;
+    font-size: 20px;
+}
+p {
+	font-weight:lighter;
+	text-indent: 50px;
+}
+h2 {
+	font-family:Cursive;
+}
+ul li{
+	font-size:20px;
+	font-weight:bold;
+	font-family:Ink Free;
+}
+.poz {
+
+	 width:50%;
+	 height:auto;
+     transform:skew(170deg,180deg);
+     margin:20px;
+     position:relative;
+	 left: 18%;
+
+}
+#unu{
+  width: 200px;
+  height: 200px;
+  position:relative;
+  left:15%;
+  transition: width 2s, height 2s, transform 2s;
+}
+#unu:hover {
+  width: 400px;
+  height: 400px;
+  transform: rotate(360deg);
+}
+.normal {
+	
+	 width:50%;
+	 height:auto;
+	 transform:rotate(10deg);
+	 position:relative;
+	 left: 20%;
+	 top:3%;
+	 margin:20px;
+}
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+img
+{
+	width:auto;
+	height:150px;
+	position:absolute;
+
+}
+#sectiune{
+	
+	position:relative;
+	top:100px;
+}
+input {
+	 width:200px;
+	 height:50px;
+	 margin:30px;
+}
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}

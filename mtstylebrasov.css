@@ -1,0 +1,402 @@
+.noua{
+	text-decoration:underline overline;
+
+}
+.adoi{
+  display:flex;	
+flex-flow:row;
+}
+body {
+	background-color: #e5ccff;
+    background-image: url("brasov.jpg");
+	background-size: 1550px 890px;
+}
+#maramures {
+	background-color: #e5ccff;
+    background-image: url("maramures.jpg");
+	background-size: 1550px 890px;
+}
+#incerc{
+	background-color:#e6e6e6;
+	width:900px;
+    height:4900px;
+	position:absolute;
+	left:300px;
+	top:0px;
+}
+#acum {
+	display:flex;
+}
+#lala{
+	border:solid;
+	width:400px;
+	height:300px;
+}
+.pot{
+	
+	position:relative;
+	top:0px;
+	
+}
+#dem{
+	position:absolute;
+    left:1200px;
+	
+}
+.bo{
+	border-style:outset;
+}
+#list{
+	border:solid black 2px;
+	width:700px;
+	height:100px;
+	position:relative;
+	left:30px;
+}
+#stop{
+	border:solid black 2px;
+	position:relative;
+	top:3px;
+	left:2px;
+	width:690px;
+	height:50px;
+}
+.d {
+	position:relative;
+	left:130px;
+	
+}
+#schimb{
+	
+	position:absolute;
+	width:100px;
+	height:auto;
+	top:1050px;
+	left:500px;
+}
+#schimb1{
+	
+	position:absolute;
+	top:1030px;
+	left:520px;
+}
+#dem1{
+	position:absolute;
+	left:1350px;
+	top:21px;
+}
+#incerc1 {
+	position:absolute;
+	top:50px;
+	left:230px;
+	width:400px;
+	color: black;	
+	font-family: times new roman;
+	text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+}
+#incerc2 {
+	align-content: center;
+	position:absolute;
+    top:200px;
+	left:50px;
+	width:800px; 
+}
+#hunedoara{
+	background-color: #e5ccff;
+    background-image: url("hunedoara.jpg");
+	background-size: 1550px 890px;
+}
+#cluj {
+    background-color: #e5ccff;
+    background-image: url("cluj.jpg");
+	background-size: 1550px 890px;
+}
+#sibiu{
+	background-color: #e5ccff;
+    background-image: url("sibiu.jpg");
+	background-size: 1550px 890px;
+}
+#sinaia{
+	background-color: #e5ccff;
+    background-image: url("sinaia1.jpg");
+	background-size: 1550px 890px;
+}
+#constanta{
+	background-color: #e5ccff;
+    background-image: url("constanta.jpg");
+	background-size: 1550px 890px;
+}
+
+#targu{
+	background-color: #e5ccff;
+    background-image: url("targujiu.jpg");
+	background-size: 1550px 890px;
+}
+#turda{
+	background-color: #e5ccff;
+    background-image: url("turda.jpg");
+	background-size: 1550px 890px;
+}
+#container{
+	background-color:#e6e6e6;
+	width:900px;
+    height:4900px;
+	position:absolute;
+	left:300px;
+	top:0px;
+}
+#header {
+	position:absolute;
+	top:50px;
+	left:230px;
+	width:400px;
+	color: black;	
+	font-family: times new roman;
+	text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow: 5px 10px black;
+}
+#continut {
+	align-content: center;
+	position:absolute;
+    top:200px;
+	left:50px;
+	width:800px; 
+}
+h2 {
+	font-family:Cursive;
+}
+ul li{
+	font-size:20px;
+	font-weight:bold;
+	font-family:Ink Free;
+}
+ol li:nth-of-type(2n) {
+    background:#d699ff;
+	width:200px;
+}
+
+ol li:nth-of-type(2n+1) {
+    background: #ad33ff;
+	width:200px;
+}
+p {
+	font-weight:lighter;
+	text-indent: 50px;
+}
+img {
+	width:330px;
+	height:250px;
+	margin:20px;
+}
+
+#smily{
+	width:10%;
+	height:auto;
+	position:relative;
+	top:0px;
+	left:300px;
+}
+#open {
+	position:absolute;
+	top:3720px;
+	left:200px;
+}
+#close {
+	position:absolute;
+	top:3720px;
+	left:500px;
+}
+.mareste{
+  padding: 50px;
+  transition: transform .2s;
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+}
+.mareste:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5); 
+}
+.stil {
+	background-image:url("pelesss_opt.jpg");
+	border:solid;
+	width:30%;
+	height:auto;
+}
+#buton {
+	position:absolute;
+	width:2%;
+	height:auto;
+	z-index:1;sec
+	margin:0px;
+}
+.p1 {
+	 width:500px;
+	 height:300px;
+     position:relative;
+	 left:100px;
+}
+.aa {
+	width:150px;
+	height:200px;
+}
+figure{
+	border: solid 1px black;
+	display: inline-block;
+	width: 27%;
+	position: relative;
+	top:5px;
+}
+input {
+	 width:200px;
+	 height:50px;
+	 margin:30px;
+}
+table,th,td {
+	border: 1px solid black;
+}
+table {
+    position:relative;
+	left:80px;
+}
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+
+span{
+    position:absolute;
+    top:10px;
+	left:320px;
+    font-size: 20px;
+}
+video {
+	position:relative;
+	left:20px;
+	width:90%;
+	margin:20px;
+}
+.dropbtn {
+    background-color: #9494b8;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: absolute;
+	top:2720px;
+	left:450px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 400px;
+    box-shadow: 0px 8px 30px 0px;
+}
+
+.dropdown-content p {
+    color: black;
+    text-decoration: none;
+    display:block;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+#prima {
+	border: 5px outset black;
+	width:550px;
+	height:450px;
+	position:relative;
+	left:80px;
+}
+
+#sectiune{
+	
+	position:relative;
+	top:100px;
+}
+#plimba {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}
+#plimba2 {
+	position:relative;
+	left:20%;
+	
+}
+#aunu {
+display: flex;
+}
+.adoi {
+flex: 1 200px;
+}
+.adoi:nth-of-type(2) {
+flex: 3 200px;
+display: flex;
+flex-flow: column;
+}
+
+
